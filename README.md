@@ -1,5 +1,10 @@
 # Hi, I'm Anthonette! 👋
 
+### 🚀 About Me
+- 🔭 I’m Information Technology student, coding for the future.
+- 🌱 I’m currently learning modern front-end web development.
+- ⚡ Fun fact: I do love baking!
+
 <h2>👨‍💻 Software Development Projects:</h2>
 ### 📁 Featured Projects
 
