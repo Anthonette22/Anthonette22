@@ -1,17 +1,30 @@
-# Hi, I'm Anthonette! 👋
+# Hi, I'm Anthonette Nikhole Fernandez! 👋
 
 ### 🚀 About Me
-- 🔭 I’m Information Technology student, coding for the future.
-- 🌱 I’m currently learning modern front-end web development.
-- ⚡ Fun fact: I do love baking!
+ 🔭I am 19 years old, currently studying at Davao Del Norte State College and currently taking Bachelor of Science in Information Technology (BSIT). I am passionate about building efficient systems, managing data, and understanding how computers connect and communicate. Right now, I'm focusing my studies on networking, relational databases, and core computer science principles.
 
-<h2>👨‍💻 Software Development Projects:</h2>
-### 📁 Featured Projects
+### 🛠️ Tech Stack & Skills
 
-#### ⚛️ React & JavaScript Apps
-*   **[E-Commerce Store](https://github.com)** - A fully functional shopping cart UI.
-*   **[Weather Dashboard](https://github.com)** - Fetches real-time weather data using a third-party API.
+- 💻 **Infrastructure & Networking:**
+-  Cisco Packet Tracer
+-  Subnetting (IPv4/IPv6)
+-  SVI Configuration
+-   OSI Model
+  
+- 💻 **Databases:**
+- SQL
+- MySQL
+- XAMPP
+- phpMyAdmin
+  
+- 💻 **Languages & Logic:**
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms
 
-#### 🌐 HTML & CSS Responsive Layouts
-*   **[Personal Portfolio](https://github.com)** - A clean, responsive portfolio website layout.
-*   **[Landing Page Template](https://github.com)** - A modern landing page optimized for mobile devices.
+
+
+🎯 **I thrive on:**
+- Strategic Problem Solving: Analyzing inefficient business processes and engineering high-level technical solutions that make organizations faster, smarter, and more resilient.
+- Scalable Architecture: Designing systems that don't just work for today, but are built to scale, adapt, and handle tomorrow's data and infrastructure demands.
